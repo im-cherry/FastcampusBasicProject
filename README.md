@@ -4,7 +4,7 @@
 
 
 
-- [기능 설명]()
+- [기능 설명](https://blog.naver.com/collcr/222933507640)
 - 소스 코드
   - [BMIActivity.kt](https://github.com/im-cherry/FastcampusBasicProject/blob/master/app/src/main/java/com/example/fastcampusbasicproject/BMIActivity.kt)
   - [BMIResultActivity.kt](https://github.com/im-cherry/FastcampusBasicProject/blob/master/app/src/main/java/com/example/fastcampusbasicproject/BMIResultActivity.kt)
