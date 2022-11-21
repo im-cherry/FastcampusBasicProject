@@ -14,4 +14,8 @@
     <color name="gray">#9F9B99</color>
     <color name="green">#76CE78</color>
 
+    <color name="diary_blue">#3F51B5</color>
+    <color name="diary_light_gray">#CDCDCD</color>
+    <color name="diary_gray">#A3A3A3</color>
+    <color name="diary_red">#FF0000</color>
 </resources>
