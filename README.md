@@ -16,3 +16,14 @@
 - [기능 설명](https://blog.naver.com/collcr/222933620143)
 - 소스 코드
   - [LottoActivity.kt](https://github.com/im-cherry/FastcampusBasicProject/blob/master/app/src/main/java/com/example/fastcampusbasicproject/LottoActivity.kt)
+  
+<hr />
+
+## 3. 비밀 다이어리
+
+<img src="https://user-images.githubusercontent.com/100753621/203076097-64a6fb01-e0e4-48c4-979b-86fb1c28508c.png" width="500"/>
+
+- [기능 설명](https://blog.naver.com/collcr/222934792951)
+- 소스 코드
+  - [SecretDiaryActivity.kt](https://github.com/im-cherry/FastcampusBasicProject/blob/master/app/src/main/java/com/example/fastcampusbasicproject/SecretDiaryActivity.kt)
+  - [SecretDiaryPageActivity.kt](https://github.com/im-cherry/FastcampusBasicProject/blob/master/app/src/main/java/com/example/fastcampusbasicproject/SecretDiaryPageActivity.kt)
